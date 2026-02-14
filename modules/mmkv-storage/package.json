@@ -1,0 +1,29 @@
+{
+  "name": "mmkv-storage",
+  "version": "1.0.0",
+  "description": "MMKV Storage module for Expo",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "scripts": {
+    "build": "expo-module build",
+    "clean": "expo-module clean"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "mmkv",
+    "storage"
+  ],
+  "repository": "",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "expo-module-scripts": "^3.0.0"
+  },
+  "peerDependencies": {
+    "expo": "*",
+    "react": "*",
+    "react-native": "*"
+  }
+}
